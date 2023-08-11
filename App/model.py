@@ -35,7 +35,7 @@ En el modelo, se crean las estructuras de datos, es decir,
 las variables donde se van a guardar los datos leidos de los
 archivos CSV.
 
-El modelo debe ser el unico sitio donde se modifican y manipulan
+El modelo debe ser  el unico sitio donde se modifican y manipulan
 los datos.
 """
 
